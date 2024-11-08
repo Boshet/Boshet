@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boshet
 - 👀 I’m interested in Golang
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on TensorFlow
 - 📫 How to reach me @steveostin@proton.me
 - 😄 Pronouns: Me
